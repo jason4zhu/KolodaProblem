@@ -1,0 +1,6 @@
+framework module Pods_MsgNotFree {
+  umbrella header "Pods-MsgNotFree-umbrella.h"
+
+  export *
+  module * { export * }
+}

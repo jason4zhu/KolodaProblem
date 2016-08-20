@@ -1,0 +1,24 @@
+PODS:
+  - Koloda (3.1.1):
+    - pop (~> 1.0)
+  - pop (1.0.9)
+
+DEPENDENCIES:
+  - Koloda (from `git@github.com:Yalantis/Koloda.git`)
+
+EXTERNAL SOURCES:
+  Koloda:
+    :git: git@github.com:Yalantis/Koloda.git
+
+CHECKOUT OPTIONS:
+  Koloda:
+    :commit: 1778b4e6e12d3a2bf1ef9c465b64feb341967c82
+    :git: git@github.com:Yalantis/Koloda.git
+
+SPEC CHECKSUMS:
+  Koloda: 782e61549cafec9fd69fc70c4a8b54bce997894d
+  pop: f667631a5108a2e60d9e8797c9b32ddaf2080bce
+
+PODFILE CHECKSUM: c9f7486bc63c846834a5a55a65e7a7906b717851
+
+COCOAPODS: 1.0.1
